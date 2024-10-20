@@ -34,9 +34,7 @@ ul li a:hover{
   color:rgb(110, 162, 7) ;
   border-bottom: 2px solid rgb(120, 175, 10);
 }
-#bar{
-  display: none;
-}
+
 .logo{
   font-size: 23px;
 
@@ -246,3 +244,4 @@ ul li a:hover{
       width: 90%;
   }
 }
+
